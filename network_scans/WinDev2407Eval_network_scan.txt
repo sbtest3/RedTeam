@@ -1,0 +1,113 @@
+==================================================
+LOCAL SYSTEM INFORMATION
+==================================================
+Local Host: WinDev2407Eval
+Domain Name: WINDEV2407EVAL
+Current User: User
+OS Info: Windows-11-10.0.22621-SP0
+CPU Cores: 4
+Total RAM: 8.00 GB
+Available RAM: 3.79 GB
+
+Disk Partitions:
+  C:\ -> C:\ (49.4% used)
+  D:\ -> D:\ (Unable to get usage)
+  E:\ -> E:\ (Unable to get usage)
+
+Running Processes (217):
+  PID 0 - System Idle Process
+  PID 4 - System
+  PID 104 - Registry
+  PID 404 - smss.exe
+  PID 524 - svchost.exe
+  PID 536 - csrss.exe
+  PID 636 - wininit.exe
+  PID 644 - csrss.exe
+  PID 708 - winlogon.exe
+  PID 780 - services.exe
+  PID 804 - lsass.exe
+  PID 816 - svchost.exe
+  PID 900 - svchost.exe
+  PID 936 - svchost.exe
+  PID 964 - fontdrvhost.exe
+  PID 972 - fontdrvhost.exe
+  PID 984 - taskhostw.exe
+  PID 1064 - svchost.exe
+  PID 1088 - svchost.exe
+  PID 1096 - svchost.exe
+  PID 1172 - svchost.exe
+  PID 1184 - backgroundTaskHost.exe
+  PID 1228 - sihost.exe
+  PID 1248 - svchost.exe
+  PID 1276 - dwm.exe
+  PID 1288 - svchost.exe
+  PID 1304 - svchost.exe
+  PID 1412 - svchost.exe
+  PID 1504 - svchost.exe
+  PID 1512 - svchost.exe
+  PID 1520 - svchost.exe
+  PID 1528 - svchost.exe
+  PID 1544 - svchost.exe
+  PID 1660 - RuntimeBroker.exe
+  PID 1696 - MemCompression
+  PID 1716 - backgroundTaskHost.exe
+  PID 1728 - svchost.exe
+  PID 1752 - svchost.exe
+  PID 1780 - svchost.exe
+  PID 1816 - svchost.exe
+  PID 1832 - DEMUpdateService.exe
+  PID 1860 - svchost.exe
+  PID 1872 - svchost.exe
+  PID 1948 - svchost.exe
+  PID 2132 - svchost.exe
+  PID 2232 - svchost.exe
+  PID 2280 - svchost.exe
+  PID 2348 - vmtoolsd.exe
+  PID 2364 - svchost.exe
+  PID 2372 - svchost.exe
+  ... and 167 more processes
+
+Network Interfaces:
+  Ethernet:
+    AF_LINK: 02-50-41-00-00-01
+    AF_INET: 172.29.4.93
+  Ethernet0:
+    AF_LINK: 00-0C-29-E9-AA-7B
+    AF_INET: 192.168.192.130
+    AF_INET6: fe80::3f02:7f53:acc1:d889
+  Ethernet1:
+    AF_LINK: 00-0C-29-E9-AA-85
+    AF_INET: 192.168.86.10
+    AF_INET6: fe80::e943:7d6:91de:7418
+  Loopback Pseudo-Interface 1:
+    AF_INET: 127.0.0.1
+    AF_INET6: ::1
+
+Shares on local machine:
+There are no entries in the list.
+
+
+
+==================================================
+NETWORK SCAN RESULTS
+==================================================
+Scanning subnet: 172.29.4.1-50
+Timestamp: 2025-10-30 07:05:04
+
+Host alive: 172.29.4.13
+Host alive: 172.29.4.10
+Host alive: 172.29.4.15
+Host alive: 172.29.4.27
+Host alive: 172.29.4.24
+Host alive: 172.29.4.34
+Host alive: 172.29.4.41
+Host alive: 172.29.4.47
+Host alive: 172.29.4.48
+Host alive: 172.29.4.44
+172.29.4.44:22 open
+172.29.4.41:80 open
+172.29.4.44:445 open
+172.29.4.34:3306 open
+172.29.4.27:3306 open
+172.29.4.27:8080 open
+172.29.4.41:8080 open
