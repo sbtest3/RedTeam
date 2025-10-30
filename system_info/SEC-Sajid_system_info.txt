@@ -1,0 +1,115 @@
+==================================================
+LOCAL SYSTEM INFORMATION
+==================================================
+Local Host: SEC-Sajid
+Domain Name: AzureAD
+Current User: MohdSajid
+OS Info: Windows-11-10.0.26200-SP0
+CPU Cores: 16
+Total RAM: 15.85 GB
+Available RAM: 2.45 GB
+
+Disk Partitions:
+  C:\ -> C:\ (88.9% used)
+
+Running Processes (391):
+  PID 0 - System Idle Process
+  PID 4 - System
+  PID 236 - 
+  PID 280 - Registry
+  PID 844 - smss.exe
+  PID 1376 - csrss.exe
+  PID 1380 - dwm.exe
+  PID 1396 - svchost.exe
+  PID 1468 - wininit.exe
+  PID 1476 - csrss.exe
+  PID 1572 - winlogon.exe
+  PID 1604 - services.exe
+  PID 1624 - LsaIso.exe
+  PID 1644 - lsass.exe
+  PID 1716 - svchost.exe
+  PID 1776 - Code.exe
+  PID 1780 - svchost.exe
+  PID 1812 - WUDFHost.exe
+  PID 1832 - fontdrvhost.exe
+  PID 1840 - fontdrvhost.exe
+  PID 1944 - svchost.exe
+  PID 1952 - svchost.exe
+  PID 1996 - svchost.exe
+  PID 2000 - svchost.exe
+  PID 2056 - svchost.exe
+  PID 2080 - svchost.exe
+  PID 2096 - svchost.exe
+  PID 2124 - RuntimeBroker.exe
+  PID 2140 - chrome.exe
+  PID 2160 - SenseNdr.exe
+  PID 2180 - svchost.exe
+  PID 2312 - backgroundTaskHost.exe
+  PID 2340 - Notepad.exe
+  PID 2356 - svchost.exe
+  PID 2372 - svchost.exe
+  PID 2472 - svchost.exe
+  PID 2508 - svchost.exe
+  PID 2536 - svchost.exe
+  PID 2596 - svchost.exe
+  PID 2644 - svchost.exe
+  PID 2652 - svchost.exe
+  PID 2664 - svchost.exe
+  PID 2804 - svchost.exe
+  PID 2812 - chrome.exe
+  PID 2816 - msedgewebview2.exe
+  PID 2828 - explorer.exe
+  PID 2892 - svchost.exe
+  PID 2992 - svchost.exe
+  PID 3040 - svchost.exe
+  PID 3068 - svchost.exe
+  ... and 341 more processes
+
+Network Interfaces:
+  Local Area Connection:
+    AF_LINK: 00-FF-A4-4F-4F-D4
+    AF_INET: 169.254.0.51
+    AF_INET6: fe80::aa2b:dc2b:1ab6:16e
+  Ethernet:
+    AF_LINK: 84-A9-38-A0-AD-9B
+    AF_INET: 169.254.213.234
+    AF_INET6: fe80::be61:70d5:da0:9c83
+  vEthernet (Default Switch):
+    AF_LINK: 00-15-5D-FD-1F-50
+    AF_INET: 172.20.16.1
+    AF_INET6: fe80::4739:ff3d:4cc2:3f39
+  Local Area Connection* 1:
+    AF_LINK: 98-43-FA-DF-C6-DC
+    AF_INET: 169.254.81.99
+    AF_INET6: fe80::9fc3:3a53:ac8c:999c
+  Local Area Connection* 10:
+    AF_LINK: 9A-43-FA-DF-C6-DB
+    AF_INET: 169.254.14.249
+    AF_INET6: fe80::182:5e06:6b69:9754
+  VMware Network Adapter VMnet1:
+    AF_LINK: 00-50-56-C0-00-01
+    AF_INET: 192.168.192.1
+    AF_INET6: fe80::bd78:24ad:9ca6:7aa8
+  VMware Network Adapter VMnet8:
+    AF_LINK: 00-50-56-C0-00-08
+    AF_INET: 192.168.245.1
+    AF_INET6: fe80::b6a5:acd0:6a50:93a2
+  Ethernet 2:
+    AF_LINK: 00-09-0F-FE-00-01
+    AF_INET: 169.254.93.192
+    AF_INET6: fe80::3d2e:528:725a:7061
+  WiFi:
+    AF_LINK: 98-43-FA-DF-C6-DB
+    AF_INET: 192.168.86.9
+    AF_INET6: fe80::8f:1abb:c2fe:e6a1
+  OpenVPN Connect DCO Adapter:
+    AF_INET: 169.254.106.75
+    AF_INET6: fe80::de39:17e7:536c:55ef
+  Loopback Pseudo-Interface 1:
+    AF_INET: 127.0.0.1
+    AF_INET6: ::1
+
+Shares on local machine:
+There are no entries in the list.
+
+
